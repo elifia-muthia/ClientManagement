@@ -1,6 +1,6 @@
 # Client Management System
 
-This is an app I built for my senior year of High School. 
+This is an app I built on my senior year of High School for my IB Higher Level Computer Science class. 
 
 This project was formerly called Tax Keeper as this app was built for my mother, a Notary, who needed a way to archive her clients' tax documents.
 
