@@ -1,5 +1,7 @@
 # Client Management System
 
+[Here is a video of me going through the functionality of my app.](https://drive.google.com/file/d/1qqHzV24HV46YwyTbyrzVlqRc3QdzNVMa/view?usp=sharing)
+
 This is an app I built on my senior year of High School for my IB Higher Level Computer Science class. 
 
 This project was formerly called Tax Keeper as this app was built for my mother, a Notary, who needed a way to archive her clients' tax documents.
@@ -8,4 +10,3 @@ However, I renamed this project to Client Management system as I thought it was 
 
 In this repo, you could view all my code, the table structure of my database, and my project documentation.
 
-[Here](https://drive.google.com/file/d/1qqHzV24HV46YwyTbyrzVlqRc3QdzNVMa/view?usp=sharing) is a video of me going through the functionality of my app.
